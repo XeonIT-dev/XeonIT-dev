@@ -23,7 +23,7 @@
 ---
 
 🔐 Interested in Linux, security, CTFs and reverse engineering  
- -🧠 Coding in Python / C, love automation and scripting  
+🧠 Coding in Python / C, love automation and scripting  
 
 ---
 </h4>
