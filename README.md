@@ -43,20 +43,13 @@
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
-
 <p align="center">
 📊GitHub stats📊 
 </p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=XeonIT-dev&show_icons=true&theme=tokyonight" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeonIT-dev&layout=compact&theme=tokyonight" alt="langs" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XeonIT-dev&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=XeonIT-dev&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 <p align="center">
   🚀 <i>Always open to cool projects and collaborations.</i> 🚀
