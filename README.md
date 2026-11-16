@@ -22,7 +22,7 @@
 
 ### `// ARCHITECTURE & FOCUS`
 
-* **Non-Custodial Financial Infrastructure:** Building self-hosted, zero-trust payment rails and automated settlement pipelines around **Monero (XMR)** without third-party custody or KYC bottlenecks.
+* **Non-Custodial Financial Infrastructure:** Building self-hosted, zero-trust payment rails and automated settlement pipelines around **Monero (XMR)**, eliminating third-party custody and centralized points of failure.
 * **Offensive Security & Binary Analysis:** Low-level Windows/Linux executable reverse engineering (**Ghidra**, PE/ELF internals, assembly auditing) and vulnerability research.
 * **Hardened Linux & Self-Hosted Systems:** Designing rootless container architectures (**Podman / Quadlet**), systemd service isolation, and high-availability backend services on **Fedora / Debian**.
 * **Algorithmic & Quantitative Tooling:** High-throughput data ingestion, event-driven bots, and predictive modeling pipelines in **Rust** and **Python**.
