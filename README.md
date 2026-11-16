@@ -54,11 +54,3 @@
 | :--- | :--- | :--- |
 | **[`xmr-gateway`](https://github.com/XeonIT-dev/xmr-gateway)** | `Rust` `SQLite` `Monero RPC` | Self-hosted, non-custodial Monero payment gateway with deterministic subaddress derivation, reorg-safe confirmation tracking, crash-safe sweep recovery, and HMAC-SHA256 webhooks. |
 | **[`CrystalShopBotRU`](https://github.com/XeonIT-dev/CrystalShopBotRU)** | `Python` `aiogram` `AsyncIO` | Automated digital storefront and fulfillment engine for Telegram with modular payment provider integration. |
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XeonIT-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-</div>
