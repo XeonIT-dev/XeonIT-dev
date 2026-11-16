@@ -14,7 +14,7 @@
 *Code is speech. Self-custody is sovereignty. Zero trust by default.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XeonIT-dev&color=111111&style=for-the-badge&label=VIEWS)](https://github.com/XeonIT-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_ЮЗЕРНЕЙМ)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fpkch)
 
 </div>
 
